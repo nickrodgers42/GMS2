@@ -1,3 +1,3 @@
 /// @description 
-image_speed = 0;
-image_index = floor(random(image_number));
+image_speed = 0.1;
+image_index = 0;
