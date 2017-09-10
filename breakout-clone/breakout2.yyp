@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "85c111bd-76a5-4730-8aa6-f4736c652572",
+            "Value": {
+                "id": "07b5ab2d-d28e-49a7-b963-5c7c389fb768",
+                "resourcePath": "sprites\\spr_title\\spr_title.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "86c20fd3-a3e1-4c9a-9887-4f7904a75684",
             "Value": {
                 "id": "eb23a9e0-4bc7-470f-8aa7-02e1dcfc5c03",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "8ce35a7d-87e0-42a5-aa4c-8445e48c6bd5",
+            "Value": {
+                "id": "265cdfcc-28f4-47ff-8c1f-faf6e6e81aaf",
+                "resourcePath": "objects\\obj_settings\\obj_settings.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8fa9372f-e6b3-426d-914b-d183a5241fcf",
             "Value": {
                 "id": "8d1f3e64-498c-4d6b-9d81-345248681856",
@@ -251,6 +267,14 @@
             "Value": {
                 "id": "abfc6cb0-bd0c-4cbc-9de5-6f7d9e0729ee",
                 "resourcePath": "objects\\obj_greenBrick\\obj_greenBrick.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9fd4d1ce-f067-4a00-aac9-e9e05ff25242",
+            "Value": {
+                "id": "7f478ad0-63dd-4cd1-b292-c38b4b172fcd",
+                "resourcePath": "objects\\obj_play\\obj_play.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -335,6 +359,14 @@
             }
         },
         {
+            "Key": "c688150d-b7ec-4ddb-8877-3a0b0a53d764",
+            "Value": {
+                "id": "9b28a159-6d16-4e6a-a115-15407dc6db7f",
+                "resourcePath": "sprites\\spr_play\\spr_play.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "af06b0fa-7f6c-48d9-b4c3-051507172827",
@@ -356,6 +388,14 @@
                 "id": "eb5b17e0-dd89-4161-886f-593cd1b4995f",
                 "resourcePath": "objects\\obj_redBrick\\obj_redBrick.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d1a71cfb-2665-410e-b2e8-09a10a761d8a",
+            "Value": {
+                "id": "e43350cb-9235-45f4-b885-d9bfce0d988e",
+                "resourcePath": "sprites\\spr_settings\\spr_settings.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
