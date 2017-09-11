@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "4b78d74f-c818-4538-805d-b2c6537c8a7a",
+            "Value": {
+                "id": "bacfd8a0-e673-4cab-bcb8-c298a3cf180b",
+                "resourcePath": "sprites\\spr_playPause\\spr_playPause.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c904120-8ec5-4850-a207-321dfa75017e",
             "Value": {
                 "id": "22873180-6b7f-4898-84e0-412c38681b1e",
@@ -202,7 +210,7 @@
             "Key": "7039c9c9-b72b-4e36-ac4a-77bbf18027a0",
             "Value": {
                 "id": "6f64a959-3730-40c7-9583-6324d53d8683",
-                "resourcePath": "rooms\\rm_main\\rm_main.yy",
+                "resourcePath": "rooms\\rm_lvl1\\rm_lvl1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -303,6 +311,14 @@
             }
         },
         {
+            "Key": "9a5b8660-6252-4cdb-b6cb-cfb965099397",
+            "Value": {
+                "id": "f06d90ef-8d44-491b-9aa4-e5bea91d7d98",
+                "resourcePath": "rooms\\rm_lvl2\\rm_lvl2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9fd4d1ce-f067-4a00-aac9-e9e05ff25242",
             "Value": {
                 "id": "7f478ad0-63dd-4cd1-b292-c38b4b172fcd",
@@ -340,6 +356,14 @@
                 "id": "e135c937-16f8-40fa-9b20-f5197dd4d82e",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aae671ff-1c89-4614-8ba1-cfb8c5eff594",
+            "Value": {
+                "id": "7d441d75-bc3a-4e7b-89aa-322f8e6f04da",
+                "resourcePath": "objects\\obj_playPause\\obj_playPause.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -452,6 +476,14 @@
                 "id": "2418cb29-b1c5-4946-bb91-dbe42c38a2e2",
                 "resourcePath": "objects\\obj_brick\\obj_brick.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "efa2b1c9-b0d6-45ef-b7bf-b42805715d08",
+            "Value": {
+                "id": "7b82ea16-ae45-405d-9874-6da097119fd1",
+                "resourcePath": "rooms\\rm_lvlSelect\\rm_lvlSelect.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

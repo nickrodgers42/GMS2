@@ -6,10 +6,11 @@
     "children": [
         "9fd4d1ce-f067-4a00-aac9-e9e05ff25242",
         "8ce35a7d-87e0-42a5-aa4c-8445e48c6bd5",
-        "cb2270ad-eff0-4c3d-827c-091dd61865f6"
+        "cb2270ad-eff0-4c3d-827c-091dd61865f6",
+        "aae671ff-1c89-4614-8ba1-cfb8c5eff594"
     ],
     "filterType": "GMObject",
-    "folderName": "grp_textObjects",
+    "folderName": "grp_menuObjects",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

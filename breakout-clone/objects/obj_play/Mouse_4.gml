@@ -1,2 +1,2 @@
 /// @description 
-room_goto(rm_main);
+room_goto(rm_lvl1);
