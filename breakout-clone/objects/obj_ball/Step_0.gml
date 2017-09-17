@@ -7,11 +7,9 @@ else
 {
 	if (y > room_height)
 	{	
-		with (obj_controller) {
-			if (playerLives-- <= 0) {
-				room_restart();
-			}
-		}
+        with (obj_controller) {
+            playerLives--;
+        }
         y = ystart;
         dir = 0;
         speed = 0;

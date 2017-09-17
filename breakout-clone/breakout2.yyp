@@ -495,14 +495,6 @@
             }
         },
         {
-            "Key": "cb2270ad-eff0-4c3d-827c-091dd61865f6",
-            "Value": {
-                "id": "21285c42-d944-4a9b-a71f-e79e50cf6b37",
-                "resourcePath": "objects\\obj_win\\obj_win.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "af06b0fa-7f6c-48d9-b4c3-051507172827",
