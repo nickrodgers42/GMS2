@@ -5,7 +5,7 @@
     "name": "obj_playPause",
     "eventList": [
         {
-            "id": "264ee537-092a-4b49-b646-e5932e9785d8",
+            "id": "383fc735-9ac2-43e4-8d2f-172b1f60f3ff",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,23 +15,13 @@
             "m_owner": "aae671ff-1c89-4614-8ba1-cfb8c5eff594"
         },
         {
-            "id": "a5d02e5b-8873-4ad6-b969-e091ce6f0f9d",
+            "id": "9a544d49-8de6-4f18-8ba9-b6dbbbd326e4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "aae671ff-1c89-4614-8ba1-cfb8c5eff594"
-        },
-        {
-            "id": "1bd83e1e-bb89-4a6a-ac20-cb5c7fce876b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 27,
-            "eventtype": 9,
             "m_owner": "aae671ff-1c89-4614-8ba1-cfb8c5eff594"
         }
     ],

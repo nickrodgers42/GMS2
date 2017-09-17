@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "79afbf42-ce78-4b5a-98cb-fa97748292ea",
+            "Value": {
+                "id": "a5d2990c-f234-4e0b-8853-c55f5f07515a",
+                "resourcePath": "fonts\\fnt_destine\\fnt_destine.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "79fc56b9-7444-49bf-aeb1-f20f035ea6c0",
             "Value": {
                 "id": "4c3ce1e1-1352-412a-bda1-ccf7f42184aa",
