@@ -11,11 +11,11 @@ if(!paused) {
     }
 }
 
-if (win) {
+if (clear) {
     instance_deactivate_all(true);
     draw_set_font(fnt_destine);
     draw_set_color(c_lime);
-    draw_text(room_width/2, room_height/2, "You Win!");
+    draw_text(room_width/2, room_height/2, "Level Cleared!");
 }
 
 if (playerLives < 0) {
